@@ -1,0 +1,1 @@
+MERN Stack with authentication
